@@ -1,4 +1,4 @@
- -👋 Hi, I’m @DanielCamargo1
+ -👋 OLÁ, EU SOU O DANIEL CAMARGO!
 - 👀 I’m interested in aprender coisas novas e aplicar meu conhecimentos 
 - 📫 How to reach me : danidcp098@gmail.com
 
