@@ -1,6 +1,6 @@
  -👋 OLÁ! Eu sou o Daniel Camargo
 - 👀 I’m interested in aprender coisas novas e aplicar meu conhecimentos
-- 📚 I´m studying TypeScript and React
+- 📚 I´m studying C# .NET 
 
 <div align="center">
   <a href="https://github.com/DanielCamargo1">
