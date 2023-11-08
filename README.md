@@ -1,4 +1,4 @@
- -👋 OLÁ! Eu sou o Daniel Camargo
+ -👋 Hello World...! Eu sou o Daniel Camargo
 - 👀 I’m interested in aprender coisas novas e aplicar meu conhecimentos
 - 📚 I´m studying C# .NET 
 
