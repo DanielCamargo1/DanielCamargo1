@@ -1,5 +1,5 @@
  -👋 Hello World...! Eu sou o Daniel Camargo
-- 👀 I’m interested in aprender coisas novas e aplicar meu conhecimentos
+- 👀 Eu sou umu desenvolvedor BackEnd em constante evolução...
 - 📚 I´m studying C# .NET 
 
 <div align="center">
