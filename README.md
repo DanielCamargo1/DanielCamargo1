@@ -1,6 +1,6 @@
  -👋 Hello World...! Eu sou o Daniel Camargo
 - 👀 Eu sou umu desenvolvedor BackEnd em constante evolução...
-- 📚 I´m studying C# .NET 
+- 📚 I´m studying C# .NET And Angular
 
 <div align="center">
   <a href="https://github.com/DanielCamargo1">
@@ -14,6 +14,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="Daniel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+          
 </div>
 
   
