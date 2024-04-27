@@ -1,6 +1,6 @@
  -👋 Hello World...! Eu sou o Daniel Camargo
 - 👀 Sou um desenvolvedor BackEnd em constante evolução...
-- 📚 I´m studying C# .NET And Angular
+- 📚 I´m studying C# .NET 
 
 <div align="center">
   <a href="https://github.com/DanielCamargo1">
